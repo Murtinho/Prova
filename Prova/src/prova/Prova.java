@@ -19,6 +19,8 @@ public class Prova {
         
         //Vado avanti sul main branch!
         System.err.println("Errore non fixato");
+        //Fix del bug
+        System.out.println("Bug fixato!");
     }
     
 }
